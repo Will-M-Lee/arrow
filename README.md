@@ -9,7 +9,7 @@
 
 `http://userName.github.io/romantic_page`
 
-如果有私有域名可以设置Custom domain,但是设置之后只能通过私有域名访问而不能通过userName.github.io域名访问
+如果有私有域名可以设置Custom domain(同时修改CNAME文件),但是设置之后只能通过私有域名访问而不能通过userName.github.io域名访问
 
 ![demo](./respository.jpg)
 
